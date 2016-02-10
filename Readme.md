@@ -1,0 +1,2 @@
+#Trackit Parent
+Android tablet app for defining geofences for the Trackit application, and monitoring registered users locations in real time.  Alerts are pushed through when a user you are monitoring traverses a defined geofence.
